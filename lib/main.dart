@@ -24,6 +24,7 @@ class DiceApp extends StatefulWidget {
   _DiceAppState createState() => _DiceAppState();
 }
 
+//provider pending
 class _DiceAppState extends State<DiceApp> {
   int diceNum = 1;
   bool loading = false;
